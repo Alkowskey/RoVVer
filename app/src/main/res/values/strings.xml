@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rovver</string>
+    <string name="title_activity_maps">RoVVer</string>
+    <string name="go">Go!</string>
+    <string name="miejscowo">Miejscowość</string>
+    <string name="odleg_o_km">Odległość (km)</string>
+    <string name="ch_d">Chód</string>
+    <string name="rower">Rower</string>
+    <string name="samoch_d">Samochód</string>
+    <string name="site">Strona</string>
+    <string name="contact">Kontakt</string>
+    <string name="just_a_imageview">Just a ImageView</string>
+    <string name="alkowskey">Alkowskey</string>
+    <string name="mail">Alkowskey@gmail.com</string>
+    <string name="Dane">Dane</string>
+    <string name="main">Strona główna</string>
+    <string name="settings">Ustawienia</string>
+    <string name="dock">Główne</string>
+    <string name="Ustawienia">Ustawienia</string>
+</resources>

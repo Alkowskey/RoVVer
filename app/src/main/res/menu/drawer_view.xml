@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+      <item android:title="@string/dock">
+        <menu>
+            <item
+                android:title="@string/main"
+                android:id="@+id/main"/>
+        </menu>
+      </item>
+    <item android:title="@string/Dane">
+        <menu>
+            <item android:id="@+id/site"
+                android:title="@string/site"/>
+            <item android:id="@+id/contact"
+                android:title="@string/contact"/>
+        </menu>
+    </item>
+    <item android:title="@string/Ustawienia">
+        <menu>
+            <item
+                android:id="@+id/darkMode"
+                android:title="Tryb nocny"
+                app:actionLayout="@layout/switch1" />
+        </menu>
+    </item>
+</menu>
